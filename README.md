@@ -1,5 +1,5 @@
 # CATopalian JavaScript Pie Menu
-A JavaScript application that creates a Pie Menu using triognometry.  
+A JavaScript application that creates a Pie Menu using trigonometry.  
 
 If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)  
 
