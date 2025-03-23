@@ -1,7 +1,9 @@
 # CATopalian JavaScript Pie Menu
 A JavaScript application that creates a Pie Menu using trigonometry.  
 
-USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Pie_Menu/CATopalian_JavaScript_Pie_Menu.html
+USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Pie_Menu/CATopalian_JavaScript_Pie_Menu.html  
+
+![screenshot_001](src/media/textures/screenshots/001.JPG)
 
 If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)  
 
