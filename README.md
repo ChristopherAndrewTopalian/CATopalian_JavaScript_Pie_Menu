@@ -5,8 +5,6 @@ USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Pie_M
 
 ![screenshot_001](src/media/textures/screenshots/001.JPG)
 
-If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)  
-
 ---
 
 ### How to Download this App
