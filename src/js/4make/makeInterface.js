@@ -2,13 +2,17 @@
 
 function makeInterface()
 {
+    ba(makeTitleOfApp());
+
+    //-//
+
     // buttonContainer
     let buttonContainer = ce('div');
     buttonContainer.id = 'buttonContainer';
     buttonContainer.className = 'buttonContainer';
     buttonContainer.style.position = 'absolute';
     buttonContainer.style.left = '100px';
-    buttonContainer.style.top = '100px';
+    buttonContainer.style.top = '50px';
     ba(buttonContainer);
 
     //-//
@@ -52,8 +56,8 @@ function createCircleOfDivs(whichArray)
     infoDiv.id = 'infoDiv';
     infoDiv.className = 'infoDiv';
     infoDiv.style.position = 'absolute';
-    infoDiv.style.left = ge('buttonContainer').getBoundingClientRect().x + 425;
-    infoDiv.style.top = ge('buttonContainer').getBoundingClientRect().y + 70;
+    infoDiv.style.left = ge('buttonContainer').getBoundingClientRect().x + 425 + 'px';
+    infoDiv.style.top = ge('buttonContainer').getBoundingClientRect().y + 70 + 'px';
     circleContainer.append(infoDiv);
 
     let radius = 100;

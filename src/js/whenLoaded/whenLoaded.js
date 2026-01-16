@@ -4,7 +4,6 @@ function whenLoaded()
 {
     loadSounds(sounds);
     makeInterface();
-    makeTitleOfApp();
 
     ge('buttonDivCircle').click();
 }
